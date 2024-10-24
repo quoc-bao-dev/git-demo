@@ -7,6 +7,7 @@ const App = () => {
             <h2>Thay đổi 3</h2>
             <button>button 2</button>
             <button>button 3</button>
+            <button>5</button>
         </div>
     );
 };
