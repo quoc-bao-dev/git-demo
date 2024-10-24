@@ -1,5 +1,6 @@
 import AppLoading from './AppLoading';
 import Cart from './Cart';
+import Apploading1 from './Apploading1';
 import CheckOut from './CheckOut';
 
 const App = () => {
@@ -15,6 +16,7 @@ const App = () => {
             <AppLoading />
             <CheckOut />
             <Cart />
+            <Apploading1 />
         </div>
     );
 };
