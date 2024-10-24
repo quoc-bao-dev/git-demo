@@ -1,4 +1,5 @@
 import AppLoading from './AppLoading';
+import Cart from './Cart';
 import CheckOut from './CheckOut';
 
 const App = () => {
@@ -13,6 +14,7 @@ const App = () => {
             <button>5</button>
             <AppLoading />
             <CheckOut />
+            <Cart />
         </div>
     );
 };
