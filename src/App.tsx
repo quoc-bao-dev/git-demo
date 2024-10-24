@@ -1,3 +1,5 @@
+import AppLoading from './AppLoading';
+
 const App = () => {
     return (
         <div>
@@ -8,6 +10,7 @@ const App = () => {
             <button>button2</button>
             <button>button 3</button>
             <button>5</button>
+            <AppLoading />
         </div>
     );
 };
