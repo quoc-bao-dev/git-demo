@@ -1,4 +1,5 @@
 import AppLoading from './AppLoading';
+import Cart from './Cart';
 import Apploading1 from './Apploading1';
 import CheckOut from './CheckOut';
 
@@ -14,6 +15,7 @@ const App = () => {
             <button>5</button>
             <AppLoading />
             <CheckOut />
+            <Cart />
             <Apploading1 />
         </div>
     );
